@@ -1,0 +1,15 @@
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\bin\Debug\TCPclient.exe.config
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\bin\Debug\TCPclient.exe
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\bin\Debug\TCPclient.pdb
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.Form1.resources
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.Properties.Resources.resources
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.GenerateResource.Cache
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.csproj.CoreCompileInputs.cache
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.exe
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.pdb
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.csprojResolveAssemblyReference.cache
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\bin\Debug\TCPclient.exe.manifest
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\bin\Debug\TCPclient.application
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.TrustInfo.xml
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.exe.manifest
+\\fileserv\userdata$\wconnor\My Documents\GitHub\TCPclient\TCPclient\obj\Debug\TCPclient.application
